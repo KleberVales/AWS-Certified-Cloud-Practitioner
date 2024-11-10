@@ -11,5 +11,6 @@
 - Armazenamento: Amazon S3, EBS, Amazon Glacier
 - Banco de Dados: Amazon RDS, DynamoDB, Amazon Redshift
 - Rede e Entrega de Conteúdo: Amazon VPC, Route 53, CloudFront
+- Segurança e Identidade: AWS IAM (Identity and Access Management)
 
 
