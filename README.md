@@ -12,5 +12,7 @@
 - Banco de Dados: Amazon RDS, DynamoDB, Amazon Redshift
 - Rede e Entrega de Conteúdo: Amazon VPC, Route 53, CloudFront
 - Segurança e Identidade: AWS IAM (Identity and Access Management)
+- Ferramentas de Gerenciamento: AWS CloudWatch, AWS CloudTrail, AWS 
+Trusted Advisor
 
 
