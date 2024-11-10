@@ -29,4 +29,18 @@ Calculator, Cost Explorer
 - Modelos de precificação (pagar pelo uso, instâncias reservadas, instâncias 
 spot)
 
+## Segurança na Nuvem
+- AWS Shared Responsibility Model
+- Conceitos de segurança e conformidade
+- Introdução à criptografia e práticas de segurança na nuvem
+- Gerenciamento de Identidade e Acesso (IAM) e políticas de segurança
+
+## Suporte e Recursos da AWS
+- Planos de suporte da AWS: Básico, Desenvolvedor, Empresarial
+- AWS Well-Architected Framework
+- AWS Marketplace e outros recursos de suporte
+
+## Introdução à Migração e Ferramentas de Migração
+- Conceitos de migração para a nuvem
+-  AWS Migration Hub e AWS Snowball para transferência de dados
 
