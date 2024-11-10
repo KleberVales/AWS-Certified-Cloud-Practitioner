@@ -22,4 +22,11 @@ Trusted Advisor
 - Ferramentas para criação de infraestrutura (CloudFormation, Elastic Load 
 Balancing)
 
+## Faturamento e Precificação da AWS
+- Estrutura de preços dos serviços AWS
+- Ferramentas para monitoramento de custos e orçamento: AWS Pricing 
+Calculator, Cost Explorer
+- Modelos de precificação (pagar pelo uso, instâncias reservadas, instâncias 
+spot)
+
 
