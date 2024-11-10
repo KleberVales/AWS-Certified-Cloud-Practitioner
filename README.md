@@ -16,5 +16,10 @@
 Trusted Advisor
 
 ## Arquitetura e Práticas de Design na Nuvem
+- Conceitos de alta disponibilidade e tolerância a falhas
+- Arquiteturas escaláveis e práticas recomendadas na AWS
+- Regiões e Zonas de Disponibilidade
+- Ferramentas para criação de infraestrutura (CloudFormation, Elastic Load 
+Balancing)
 
 
