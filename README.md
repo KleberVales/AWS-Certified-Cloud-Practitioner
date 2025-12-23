@@ -21,3 +21,14 @@
 | 08 | [Economic Aspects of the Cloud]() |
 
 ---
+
+## Domínio 2 – Segurança e Conformidade
+
+| Nº | Pages |
+|----|--------|
+| 05 | []() |
+| 06 | []() |
+| 07 | []() |
+| 08 | []() |
+
+---
