@@ -22,7 +22,7 @@
 
 ---
 
-## Domínio 2 – Security and Compliance
+## Domain 2 – Security and Compliance
 
 | Nº | Pages |
 |----|--------|
@@ -39,11 +39,11 @@
 |----|--------|
 | 13 | [AWS Deployment and Operation]() |
 | 14 | [AWS Global Infrastructure]() |
-| 15 | [Computer Services]() |
+| 15 | [Compute Services]() |
 | 16 | [Database Services]() |
 | 17 | [Network Services]() |
 | 18 | [Storage Services]() |
-| 19 | [IA, Machine Learning e Analytics]() |
+| 19 | [AI, Machine Learning and Analytics]() |
 | 20 | [Other AWS Services]() |
 
 ---
