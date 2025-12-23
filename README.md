@@ -26,10 +26,10 @@
 
 | Nº | Pages |
 |----|--------|
-| 05 | [Shared Responsibility Model]() |
-| 06 | [Security, Governance and Compliance]() |
-| 07 | [Identity and Access Management (IAM)]() |
-| 08 | [Security Components and Features]() |
+| 09 | [Shared Responsibility Model]() |
+| 10 | [Security, Governance and Compliance]() |
+| 11 | [Identity and Access Management (IAM)]() |
+| 12 | [Security Components and Features]() |
 
 ---
 
