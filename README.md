@@ -4,7 +4,7 @@
 
 | Nº | Pages |
 |----|--------|
-| 01 | [Introduction to cloud computing]() |
+| 01 | [Introduction to cloud computing](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/01-Introduction-to-cloud-computing) |
 | 02 | [Deployment models: Public, Private, and Hybrid Cloud]() |
 | 03 | [Advantages of the cloud: Elasticity, scalability, costs, etc.]() |
 | 04 | [Service models: IaaS, PaaS, SaaS]() |
