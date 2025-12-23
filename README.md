@@ -12,3 +12,12 @@
 ---
 
 ## Domínio 1 – Conceitos de Nuvem
+
+| Nº | Pages |
+|----|--------|
+| 05 | [Benefícios da Nuvem AWS]() |
+| 06 | []() |
+| 07 | []() |
+| 08 | []() |
+
+---
