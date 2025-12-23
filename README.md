@@ -16,7 +16,7 @@
 | Nº | Pages |
 |----|--------|
 | 05 | [Benefícios da Nuvem AWS]() |
-| 06 | []() |
+| 06 | [Princípios de Design da Nuvem AWS]() |
 | 07 | []() |
 | 08 | []() |
 
