@@ -55,6 +55,5 @@
 | 21 | [Pricing Models]() |
 | 22 | [Cost Management]() |
 | 23 | [Support and Technical Resources]() |
-| 24 | []() |
 
 ---
