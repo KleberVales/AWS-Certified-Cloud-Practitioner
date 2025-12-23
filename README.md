@@ -1,13 +1,13 @@
 # AWS Certified Cloud Practitioner
 
-## Introdução ao cloud computing
+## Introduction to cloud computing
 
 | Nº | Pages |
 |----|--------|
-| 01 | [Introdução à computação em nuvem]() |
-| 02 | [Modelos de implantação: Nuvem Pública, Privada e Híbrida]() |
-| 03 | [Vantagens da nuvem: Elasticidade, escalabilidade, custos, etc.]() |
-| 04 | [Modelos de serviço: IaaS, PaaS, SaaSl]() |
+| 01 | [Introduction to cloud computing]() |
+| 02 | [Deployment models: Public, Private, and Hybrid Cloud]() |
+| 03 | [Advantages of the cloud: Elasticity, scalability, costs, etc.]() |
+| 04 | [Service models: IaaS, PaaS, SaaS]() |
 
 ---
 
