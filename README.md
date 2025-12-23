@@ -29,7 +29,7 @@
 | 05 | [Shared Responsibility Model]() |
 | 06 | [Security, Governance and Compliance]() |
 | 07 | [Identity and Access Management (IAM)]() |
-| 08 | []() |
+| 08 | [Security Components and Features]() |
 
 ---
 
