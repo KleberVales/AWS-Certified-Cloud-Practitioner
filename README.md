@@ -41,10 +41,10 @@
 | 14 | [AWS Global Infrastructure]() |
 | 15 | [Computer Services]() |
 | 16 | [Database Services]() |
-| 17 | []() |
-| 18 | []() |
-| 19 | []() |
-| 20 | []() |
+| 17 | [Network Services]() |
+| 18 | [Storage Services]() |
+| 19 | [IA, Machine Learning e Analytics]() |
+| 20 | [Other AWS Services]() |
 
 ---
 
