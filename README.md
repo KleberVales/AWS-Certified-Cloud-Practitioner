@@ -26,8 +26,8 @@
 
 | Nº | Pages |
 |----|--------|
-| 05 | []() |
-| 06 | []() |
+| 05 | [Shared Responsibility Model]() |
+| 06 | [Security, Governance and Compliance]() |
 | 07 | []() |
 | 08 | []() |
 
