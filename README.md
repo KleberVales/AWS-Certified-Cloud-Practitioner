@@ -11,12 +11,12 @@
 
 ---
 
-## Domínio 1 – Conceitos de Nuvem
+## Domain 1 – Cloud Concepts
 
 | Nº | Pages |
 |----|--------|
-| 05 | [Benefícios da Nuvem AWS]() |
-| 06 | [Princípios de Design da Nuvem AWS]() |
+| 05 | [Benefits of the AWS Cloud]() |
+| 06 | [AWS Cloud Design Principles]() |
 | 07 | []() |
 | 08 | []() |
 
