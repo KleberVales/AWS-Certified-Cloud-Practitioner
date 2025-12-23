@@ -22,7 +22,7 @@
 
 ---
 
-## Domínio 2 – Segurança e Conformidade
+## Domínio 2 – Security and Compliance
 
 | Nº | Pages |
 |----|--------|
