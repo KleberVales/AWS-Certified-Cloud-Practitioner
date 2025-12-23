@@ -37,10 +37,10 @@
 
 | Nº | Pages |
 |----|--------|
-| 05 | []() |
-| 06 | []() |
-| 07 | []() |
-| 08 | []() |
+| 05 | [AWS Deployment and Operation]() |
+| 06 | [AWS Global Infrastructure]() |
+| 07 | [Computer Services]() |
+| 08 | [Database Services]() |
 
 ---
 
