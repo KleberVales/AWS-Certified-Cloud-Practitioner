@@ -18,6 +18,6 @@
 | 05 | [Benefits of the AWS Cloud]() |
 | 06 | [AWS Cloud Design Principles]() |
 | 07 | [Migração para a Nuvem AWS]() |
-| 08 | []() |
+| 08 | [Aspectos Econômicos da Nuvem]() |
 
 ---
