@@ -38,7 +38,7 @@
 | Nº | Pages |
 |----|--------|
 | 13 | [AWS Deployment and Operation](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/13-AWS-Deployment-and-Operation) |
-| 14 | [AWS Global Infrastructure]() |
+| 14 | [AWS Global Infrastructure](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/14-AWS-Global-Infrastructure) |
 | 15 | [Compute Services]() |
 | 16 | [Database Services]() |
 | 17 | [Network Services]() |
