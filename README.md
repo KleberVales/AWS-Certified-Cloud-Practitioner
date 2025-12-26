@@ -1,6 +1,6 @@
 # AWS Certified Cloud Practitioner
 
-## Introduction to cloud computing
+## 01 Introduction to cloud computing
 
 | Nº | Pages |
 |----|--------|
@@ -11,7 +11,7 @@
 
 ---
 
-## Domain 1 – Cloud Concepts
+## 02 Cloud Concepts
 
 | Nº | Pages |
 |----|--------|
@@ -22,7 +22,7 @@
 
 ---
 
-## Domain 2 – Security and Compliance
+## 03 Security and Compliance
 
 | Nº | Pages |
 |----|--------|
@@ -33,7 +33,7 @@
 
 ---
 
-## Domain 3 – Cloud Technology and Services
+## 04 Cloud Technology and Services
 
 | Nº | Pages |
 |----|--------|
@@ -49,7 +49,7 @@
 
 ---
 
-## Domain 4 – Billing, Pricing, and Support
+## 05 Billing, Pricing, and Support
 
 | Nº | Pages |
 |----|--------|
