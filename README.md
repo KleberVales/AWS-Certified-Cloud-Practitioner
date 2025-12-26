@@ -28,7 +28,7 @@
 |----|--------|
 | 09 | [Shared Responsibility Model]() |
 | 10 | [Security, Governance and Compliance]() |
-| 11 | [Identity and Access Management (IAM)]() |
+| 11 | [Identity and Access Management (IAM)](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/11-Identity-and-Access-Management-(IAM)) |
 | 12 | [Security Components and Features](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/12-Security-Components-and-Features) |
 
 ---
