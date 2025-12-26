@@ -18,7 +18,7 @@
 | 05 | [Benefits of the AWS Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/05-Benefits-of-the-AWS-Cloud) |
 | 06 | [AWS Cloud Design Principles](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/06-AWS-Cloud-Design-Principles) |
 | 07 | [Migration to the AWS Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/07-Migration-to-the-AWS-Cloud) |
-| 08 | [Economic Aspects of the Cloud]() |
+| 08 | [Economic Aspects of the Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/08-Economic-Aspects-of-the-Cloud) |
 
 ---
 
