@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner
+# AWS Fundamentals Guide
 
 ## 01 Introduction to cloud computing
 
