@@ -68,6 +68,8 @@
 
 ## 2.2 Segurança
 
+### Implementar autenticação e/ou autorização para aplicações e serviços da AWS
+
 # 3. AWS Solutions Architect 
 
 ## [06 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
