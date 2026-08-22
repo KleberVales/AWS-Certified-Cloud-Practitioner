@@ -79,6 +79,8 @@
 ### Automatizar testes de implantação
 ### Implantar o código usando os serviços de integração contínua e entrega contínua (CI/CD) da AWS
 
+## 2.4 Solução de problemas e otimização
+
 # 3. AWS Solutions Architect 
 
 ## [06 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
