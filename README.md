@@ -76,6 +76,7 @@
 
 ### Preparar artefatos de aplicações para serem implantados na AWS
 ### Testar aplicações em ambientes de desenvolvimento
+### Automatizar testes de implantação
 
 # 3. AWS Solutions Architect 
 
