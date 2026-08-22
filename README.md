@@ -72,6 +72,8 @@
 ### Implementar criptografia usando os serviços da AWS
 ### Gerenciar dados sensíveis no código da aplicação
 
+## 2.3 Implantação
+
 # 3. AWS Solutions Architect 
 
 ## [06 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
