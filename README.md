@@ -62,7 +62,7 @@
 
 ## 2.1 Desenvolvimento com serviços da AWS
 
-# 2. AWS Solutions Architect 
+# 3. AWS Solutions Architect 
 
 ## [06 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
 
