@@ -70,6 +70,7 @@
 
 ### Implementar autenticação e/ou autorização para aplicações e serviços da AWS
 ### Implementar criptografia usando os serviços da AWS
+### Gerenciar dados sensíveis no código da aplicação
 
 # 3. AWS Solutions Architect 
 
