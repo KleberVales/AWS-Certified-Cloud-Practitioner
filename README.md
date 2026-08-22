@@ -1,4 +1,4 @@
-# Complete guide to AWS
+# 1. Cloud fundamentals
 
 ## 01 Introduction to cloud computing
 
