@@ -87,7 +87,7 @@
 
 # 3. AWS Solutions Architect 
 
-## [06 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
+## [3.1 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
 
 24. Design secure access to AWS resources
 25. Design secure workloads and applications
@@ -95,14 +95,14 @@
 
 ---
 
-## [07 Design Resilient Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/02-Design-Resilient-Architectures)
+## [3.2 Design Resilient Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/02-Design-Resilient-Architectures)
 
 27. Design scalable and loosely coupled architectures
 28. Design highly available and/or fault-tolerant architectures
 
 ---
 
-## [08 Design High-Performing Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/03-Design-High%E2%80%90Performing-Architectures)
+## [3.3 Design High-Performing Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/03-Design-High%E2%80%90Performing-Architectures)
 
 27. Determine high-performing and/or scalable storage solutions
 28. Design high-performing and elastic compute solutions
@@ -112,7 +112,7 @@
 
 ---
 
-## [09 Design Cost-Optimized Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/04-Design-Cost%E2%80%90Optimized-Architectures)
+## [3.4 Design Cost-Optimized Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/04-Design-Cost%E2%80%90Optimized-Architectures)
 
 32. Design cost-optimized storage solutions
 33. Design cost-optimized compute solutions
