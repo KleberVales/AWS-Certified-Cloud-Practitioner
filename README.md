@@ -63,6 +63,7 @@
 ## 2.1 Desenvolvimento com serviços da AWS
 
 ### Desenvolver código para aplicações hospedadas na AWS
+### Desenvolver código para o AWS Lambda
 
 # 3. AWS Solutions Architect 
 
