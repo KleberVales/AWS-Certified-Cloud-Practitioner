@@ -64,6 +64,7 @@
 
 ### Desenvolver código para aplicações hospedadas na AWS
 ### Desenvolver código para o AWS Lambda
+### Usar armazenamentos de dados no desenvolvimento de aplicações
 
 # 3. AWS Solutions Architect 
 
