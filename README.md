@@ -83,8 +83,7 @@
 
 ### Auxiliar na análise da causa raiz
 ### Instrumentar código para observabilidade
-
-
+### Otimizar aplicações usando os serviços e os recursos da AWS
 
 # 3. AWS Solutions Architect 
 
