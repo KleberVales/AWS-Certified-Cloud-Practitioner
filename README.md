@@ -82,6 +82,9 @@
 ## 2.4 Solução de problemas e otimização
 
 ### Auxiliar na análise da causa raiz
+### Instrumentar código para observabilidade
+
+
 
 # 3. AWS Solutions Architect 
 
