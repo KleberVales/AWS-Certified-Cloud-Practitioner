@@ -25,7 +25,7 @@
 
 ### AWS Deployment and Operation
 ### AWS Global Infrastructure
-| 15 | [Compute Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/15-Compute-Services) |
+### Compute Services
 | 16 | [Database Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/16-Database-Services) |
 | 17 | [Network Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/17-Network-Services) |
 | 18 | [Storage Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/18-Storage-Services) |
