@@ -65,7 +65,7 @@
 ### Instrumentar código para observabilidade
 ### Otimizar aplicações usando os serviços e os recursos da AWS
 
-# 3. [AWS Solutions Architect](https://github.com/KleberVales/aws-solutions-architect-guide/wiki) 
+# [3. AWS Solutions Architect](https://github.com/KleberVales/aws-solutions-architect-guide/wiki) 
 
 ## 3.1 Design Secure Architectures
 
@@ -78,11 +78,11 @@
 ### Design scalable and loosely coupled architectures
 ### Design highly available and/or fault-tolerant architectures
 
-## [3.3 Design High-Performing Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/03-Design-High%E2%80%90Performing-Architectures)
+## 3.3 Design High-Performing Architectures
 
-27. Determine high-performing and/or scalable storage solutions
-28. Design high-performing and elastic compute solutions
-29. Determine high-performing database solutions
+### Determine high-performing and/or scalable storage solutions
+### Design high-performing and elastic compute solutions
+### Determine high-performing database solutions
 30. Determine high-performing and/or scalable network architectures
 31. Determine high-performing data ingestion and transformation solutions
 
