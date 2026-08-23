@@ -7,7 +7,7 @@
 ### Advantages of the cloud: Elasticity, scalability, costs, etc.
 ### Service models: IaaS, PaaS, SaaS
 
-## 02 Cloud Concepts
+## 2. Cloud Concepts
 
 | Nº | Pages |
 |----|--------|
