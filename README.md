@@ -11,10 +11,8 @@
 
 ### Benefits of the AWS Cloud
 ### AWS Cloud Design Principles
-| 07 | [Migration to the AWS Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/07-Migration-to-the-AWS-Cloud) |
-| 08 | [Economic Aspects of the Cloud](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/08-Economic-Aspects-of-the-Cloud) |
-
----
+### Migration to the AWS Cloud
+### Economic Aspects of the Cloud
 
 ## 03 Governance, Compliance, and Security
 
