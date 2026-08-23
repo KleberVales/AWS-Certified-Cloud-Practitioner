@@ -14,14 +14,14 @@
 ### Migration to the AWS Cloud
 ### Economic Aspects of the Cloud
 
-## 03 Governance, Compliance, and Security
+## 3. Governance, Compliance, and Security
 
 ### Shared Responsibility Model
 ### Governance, Compliance, and Security
 ### Identity and Access Management (IAM)
 ### Security Components and Features
 
-## 04 Cloud Technology and Services
+## 4. Cloud Technology and Services
 
 ### AWS Deployment and Operation
 ### AWS Global Infrastructure
@@ -32,10 +32,8 @@
 ### AI, Machine Learning Services and Analytics Services
 ### Other AWS Services
 
-## 05 Billing, Pricing, and Support
+## 5. Billing, Pricing, and Support
 
-| Nº | Pages |
-|----|--------|
 | 21 | [Pricing Models](https://github.com/KleberVales/complete-guide-to-AWS/wiki/21-Pricing-Models) |
 | 22 | [Cost Management](https://github.com/KleberVales/complete-guide-to-AWS/wiki/22--Cost-Management) |
 | 23 | [Support and Technical Resources](https://github.com/KleberVales/complete-guide-to-AWS/wiki/23-Support-and-Technical-Resources) |
