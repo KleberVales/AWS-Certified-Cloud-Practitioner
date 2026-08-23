@@ -21,12 +21,8 @@
 ### Identity and Access Management (IAM)
 ### Security Components and Features
 
----
-
 ## 04 Cloud Technology and Services
 
-| Nº | Pages |
-|----|--------|
 | 13 | [AWS Deployment and Operation](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/13-AWS-Deployment-and-Operation) |
 | 14 | [AWS Global Infrastructure](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/14-AWS-Global-Infrastructure) |
 | 15 | [Compute Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/15-Compute-Services) |
