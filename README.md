@@ -16,9 +16,7 @@
 
 ## 03 Governance, Compliance, and Security
 
-| Nº | Pages |
-|----|--------|
-| 09 | [Shared Responsibility Model](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/09-Shared-Responsibility-Model) |
+### Shared Responsibility Model
 | 10 | [Governance, Compliance, and Security](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/10-Security,-Governance-and-Compliance) |
 | 11 | [Identity and Access Management (IAM)](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/11-Identity-and-Access-Management-(IAM)) |
 | 12 | [Security Components and Features](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/12-Security-Components-and-Features) |
