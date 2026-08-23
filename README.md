@@ -73,12 +73,10 @@
 ### Design secure workloads and applications
 ### Determine appropriate data security controls
 
-## [3.2 Design Resilient Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/02-Design-Resilient-Architectures)
+## 3.2 Design Resilient Architectures
 
-27. Design scalable and loosely coupled architectures
-28. Design highly available and/or fault-tolerant architectures
-
----
+### Design scalable and loosely coupled architectures
+### Design highly available and/or fault-tolerant architectures
 
 ## [3.3 Design High-Performing Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/03-Design-High%E2%80%90Performing-Architectures)
 
