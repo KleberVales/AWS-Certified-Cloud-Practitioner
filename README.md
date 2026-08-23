@@ -24,7 +24,7 @@
 ## 04 Cloud Technology and Services
 
 ### AWS Deployment and Operation
-| 14 | [AWS Global Infrastructure](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/14-AWS-Global-Infrastructure) |
+### AWS Global Infrastructure
 | 15 | [Compute Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/15-Compute-Services) |
 | 16 | [Database Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/16-Database-Services) |
 | 17 | [Network Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/17-Network-Services) |
