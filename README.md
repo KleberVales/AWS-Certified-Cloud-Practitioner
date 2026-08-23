@@ -30,9 +30,7 @@
 ### Network Services
 ### Storage Services
 ### AI, Machine Learning Services and Analytics Services
-| 20 | [Other AWS Services](https://github.com/KleberVales/complete-guide-to-AWS/wiki/20-Other-AWS-Services) |
-
----
+### Other AWS Services
 
 ## 05 Billing, Pricing, and Support
 
