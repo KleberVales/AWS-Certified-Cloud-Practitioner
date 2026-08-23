@@ -83,10 +83,8 @@
 ### Determine high-performing and/or scalable storage solutions
 ### Design high-performing and elastic compute solutions
 ### Determine high-performing database solutions
-30. Determine high-performing and/or scalable network architectures
-31. Determine high-performing data ingestion and transformation solutions
-
----
+### Determine high-performing and/or scalable network architectures
+### Determine high-performing data ingestion and transformation solutions
 
 ## [3.4 Design Cost-Optimized Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/04-Design-Cost%E2%80%90Optimized-Architectures)
 
