@@ -65,15 +65,13 @@
 ### Instrumentar código para observabilidade
 ### Otimizar aplicações usando os serviços e os recursos da AWS
 
-# 3. AWS Solutions Architect 
+# 3. [AWS Solutions Architect](https://github.com/KleberVales/aws-solutions-architect-guide/wiki) 
 
-## [3.1 Design Secure Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/01-Design-Secure-Architectures)
+## 3.1 Design Secure Architectures
 
-24. Design secure access to AWS resources
-25. Design secure workloads and applications
-26. Determine appropriate data security controls
-
----
+### Design secure access to AWS resources
+### Design secure workloads and applications
+### Determine appropriate data security controls
 
 ## [3.2 Design Resilient Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/02-Design-Resilient-Architectures)
 
