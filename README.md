@@ -19,7 +19,7 @@
 ### Shared Responsibility Model
 ### Governance, Compliance, and Security
 ### Identity and Access Management (IAM)
-| 12 | [Security Components and Features](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/12-Security-Components-and-Features) |
+### Security Components and Features
 
 ---
 
