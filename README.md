@@ -86,15 +86,15 @@
 ### Determine high-performing and/or scalable network architectures
 ### Determine high-performing data ingestion and transformation solutions
 
-## [3.4 Design Cost-Optimized Architectures](https://github.com/KleberVales/aws-solutions-architect-guide/wiki/04-Design-Cost%E2%80%90Optimized-Architectures)
+## 3.4 Design Cost-Optimized Architectures
 
-32. Design cost-optimized storage solutions
-33. Design cost-optimized compute solutions
-34. Design cost-optimized database solutions
-35. Design cost-optimized network architectures
+### Design cost-optimized storage solutions
+### Design cost-optimized compute solutions
+### Design cost-optimized database solutions
+### Design cost-optimized network architectures
 
----
 
-https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/solutions-architect-associate-03.html
 
----
+
+
+
