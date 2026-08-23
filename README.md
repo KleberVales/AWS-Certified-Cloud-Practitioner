@@ -4,8 +4,8 @@
 
 ### Introduction to cloud computing
 ### Deployment models: Public, Private, and Hybrid Cloud
-| 03 | [Advantages of the cloud: Elasticity, scalability, costs, etc.](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/03-Advantages-of-the-cloud:-Elasticity,-scalability,-costs,-etc) |
-| 04 | [Service models: IaaS, PaaS, SaaS](https://github.com/KleberVales/AWS-Certified-Cloud-Practitioner/wiki/04-Service-models:-IaaS,-PaaS,-SaaS) |
+### Advantages of the cloud: Elasticity, scalability, costs, etc.
+### Service models: IaaS, PaaS, SaaS
 
 ---
 
