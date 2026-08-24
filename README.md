@@ -95,7 +95,7 @@
 
 Kleber Vales
 
-Spring & Java
+Spring & Java Software Engineer
 
 
 
