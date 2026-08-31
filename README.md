@@ -5,7 +5,7 @@
 ### 1.1 Introduction to cloud computing. 
 ### 1.2 Deployment models: Public, Private, and Hybrid Cloud
 ### 1.3 Advantages of the cloud: Elasticity, scalability, costs, etc.
-### Service models: IaaS, PaaS, SaaS
+### 1.4 Service models: IaaS, PaaS, SaaS
 
 ## 2. Cloud Concepts
 
