@@ -61,7 +61,7 @@
 
 ## 2.4 Problem solving and optimization
 
-### Auxiliar na análise da causa raiz
+### Assist in root cause analysis
 ### Instrumentar código para observabilidade
 ### Otimizar aplicações usando os serviços e os recursos da AWS
 
