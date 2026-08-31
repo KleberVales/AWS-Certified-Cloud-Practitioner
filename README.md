@@ -48,7 +48,7 @@
 
 ## 2.2 Security
 
-### Implementar autenticação e/ou autorização para aplicações e serviços da AWS
+### Implement authentication and/or authorization for AWS applications and services
 ### Implementar criptografia usando os serviços da AWS
 ### Gerenciar dados sensíveis no código da aplicação
 
