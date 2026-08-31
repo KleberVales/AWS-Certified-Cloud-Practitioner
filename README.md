@@ -63,7 +63,7 @@
 
 ### Assist in root cause analysis
 ### Instrument code for observability
-### Otimizar aplicações usando os serviços e os recursos da AWS
+### Optimize applications using AWS services and resources
 
 # [3. AWS Solutions Architect](https://github.com/KleberVales/aws-solutions-architect-guide/wiki) 
 
