@@ -42,7 +42,7 @@
 
 ## 2.1 Development with AWS services
 
-### Desenvolver código para aplicações hospedadas na AWS
+### Develop code for applications hosted on AWS
 ### Desenvolver código para o AWS Lambda
 ### Usar armazenamentos de dados no desenvolvimento de aplicações
 
