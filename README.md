@@ -2,7 +2,7 @@
 
 ## 1. Introduction to cloud computing
 
-### Introduction to cloud computing
+### 1.1 Introduction to cloud computing. 
 ### Deployment models: Public, Private, and Hybrid Cloud
 ### Advantages of the cloud: Elasticity, scalability, costs, etc.
 ### Service models: IaaS, PaaS, SaaS
