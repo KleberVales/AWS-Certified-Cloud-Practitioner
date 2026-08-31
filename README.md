@@ -46,7 +46,7 @@
 ### Develop code for AWS Lambda
 ### Use data stores in application development
 
-## 2.2 Segurança
+## 2.2 Security
 
 ### Implementar autenticação e/ou autorização para aplicações e serviços da AWS
 ### Implementar criptografia usando os serviços da AWS
