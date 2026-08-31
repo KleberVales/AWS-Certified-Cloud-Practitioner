@@ -56,7 +56,7 @@
 
 ### Prepare application artifacts for deployment on AWS
 ### Testing applications in development environments
-### Automatizar testes de implantação
+### Automate deployment tests
 ### Implantar o código usando os serviços de integração contínua e entrega contínua (CI/CD) da AWS
 
 ## 2.4 Solução de problemas e otimização
