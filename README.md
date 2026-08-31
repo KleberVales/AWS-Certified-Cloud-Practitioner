@@ -40,7 +40,7 @@
 
 # [2. AWS Developer](https://github.com/KleberVales/aws-certified-developer/wiki)
 
-## 2.1 Desenvolvimento com serviços da AWS
+## 2.1 Development with AWS services
 
 ### Desenvolver código para aplicações hospedadas na AWS
 ### Desenvolver código para o AWS Lambda
