@@ -59,7 +59,7 @@
 ### Automate deployment tests
 ### Deploy the code using AWS Continuous Integration and Continuous Delivery (CI/CD) services
 
-## 2.4 Solução de problemas e otimização
+## 2.4 Problem solving and optimization
 
 ### Auxiliar na análise da causa raiz
 ### Instrumentar código para observabilidade
