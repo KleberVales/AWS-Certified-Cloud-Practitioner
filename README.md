@@ -54,7 +54,7 @@
 
 ## 2.3 Implantation
 
-### Preparar artefatos de aplicações para serem implantados na AWS
+### Prepare application artifacts for deployment on AWS
 ### Testar aplicações em ambientes de desenvolvimento
 ### Automatizar testes de implantação
 ### Implantar o código usando os serviços de integração contínua e entrega contínua (CI/CD) da AWS
