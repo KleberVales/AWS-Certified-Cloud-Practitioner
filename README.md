@@ -52,7 +52,7 @@
 ### Implement encryption using AWS services
 ### Manage sensitive data in application code
 
-## 2.3 Implantação
+## 2.3 Implantation
 
 ### Preparar artefatos de aplicações para serem implantados na AWS
 ### Testar aplicações em ambientes de desenvolvimento
