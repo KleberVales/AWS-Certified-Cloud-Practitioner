@@ -62,7 +62,7 @@
 ## 2.4 Problem solving and optimization
 
 ### Assist in root cause analysis
-### Instrumentar código para observabilidade
+### Instrument code for observability
 ### Otimizar aplicações usando os serviços e os recursos da AWS
 
 # [3. AWS Solutions Architect](https://github.com/KleberVales/aws-solutions-architect-guide/wiki) 
