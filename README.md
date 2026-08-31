@@ -50,7 +50,7 @@
 
 ### Implement authentication and/or authorization for AWS applications and services
 ### Implement encryption using AWS services
-### Gerenciar dados sensíveis no código da aplicação
+### Manage sensitive data in application code
 
 ## 2.3 Implantação
 
