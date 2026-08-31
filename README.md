@@ -49,7 +49,7 @@
 ## 2.2 Security
 
 ### Implement authentication and/or authorization for AWS applications and services
-### Implementar criptografia usando os serviços da AWS
+### Implement encryption using AWS services
 ### Gerenciar dados sensíveis no código da aplicação
 
 ## 2.3 Implantação
