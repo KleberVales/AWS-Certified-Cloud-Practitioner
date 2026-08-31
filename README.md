@@ -44,7 +44,7 @@
 
 ### Develop code for applications hosted on AWS
 ### Develop code for AWS Lambda
-### Usar armazenamentos de dados no desenvolvimento de aplicações
+### Use data stores in application development
 
 ## 2.2 Segurança
 
